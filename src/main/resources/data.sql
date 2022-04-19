@@ -1,0 +1,2 @@
+insert into students (id, name, second_name, last_name, second_lastname, document_number) values (1, 'Enrique', '', 'Rengifo', '', '6287998' );
+insert into teachers (id, name, second_name, last_name, second_lastname, document_number) values (1, 'Juan', '', 'Ramirez', '', '36282189' );
